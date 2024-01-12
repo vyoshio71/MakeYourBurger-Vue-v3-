@@ -10,9 +10,9 @@ yarn install
 yarn serve
 ```
 
-### Compiles and minifies for production
+### Compiles Backend JSON Server
 ```
-yarn build
+yarn backend
 ```
 
 ### Customize configuration
